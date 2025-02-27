@@ -1,2 +1,2 @@
-# challenge-amigo-secreto_pt-main-main
+# challenge-amigo-secreto
 UM APP DE SORTEIO DE AMIGO SECRETO
